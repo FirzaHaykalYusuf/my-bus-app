@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Bus</string>
+    <string name="register_rich_text">Belum punya akun? <font color="#2196F3">Register</font></string>
+    <string name="login_rich_text">Sudah punya akun? <font color="#2196F3">Login</font></string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmlyemFoeSIsImEiOiJjbWJuYzNpdzAxcGNnMnNvOXZ5Z244YzBmIn0.WuijfaVRoIuhtnODJH9ApA</string>
+
+</resources>

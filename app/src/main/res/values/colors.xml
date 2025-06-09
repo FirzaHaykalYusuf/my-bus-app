@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1976D2</color> <!-- Blue 700 -->
+    <color name="colorPrimaryDark">#0D47A1</color> <!-- Blue 900 -->
+    <color name="colorAccent">#2196F3</color> <!-- Blue 500 -->
+
+    <!-- Variants -->
+    <color name="colorPrimaryLight">#BBDEFB</color> <!-- Blue 100 -->
+    <color name="colorPrimaryLighter">#E3F2FD</color> <!-- Blue 50 -->
+    <color name="colorPrimarySoft">#90CAF9</color> <!-- Blue 300 -->
+
+    <!-- Text & Background -->
+    <color name="colorTextPrimary">#212121</color> <!-- Almost Black -->
+    <color name="colorTextSecondary">#757575</color> <!-- Grey -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#F5F5F5</color> <!-- Light Grey -->
+    <color name="colorBlue">#2196F3</color>
+
+    <!-- Error & Success (optional) -->
+    <color name="colorError">#D32F2F</color>
+    <color name="colorSuccess">#388E3C</color>
+
+    <!--new design-->
+    <color name="color_blue">#27AAE1</color>
+    <color name="color_red">#ED1C24</color>
+    <color name="color_bottom">#8CACB7</color>
+    <color name="color_grey">#6B7B81</color>
+    <color name="blue">#0286FF</color>
+    <color name="light_blue">#1E90FF</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="grey">#808080</color>
+
+    <color name="bg_blue_dark">#182C9A</color>
+    <color name="bg_blue_light">#445DF1</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <color name="colorAccentBlue">#A8F1FF</color>
+    <color name="colorAccentYellow">#FFFA8D</color>
+    <color name="colorAccentGreen">#EBFFD8</color>
+
+    <!-- New Colors for Redesign -->
+    <color name="WhitePrimary">#FFFFFF</color>
+    <color name="WhiteSecond">#F4F4F4</color>
+    <color name="WhiteThird">#EDEDED</color>
+    <color name="WhiteFourth">#F7F7F7</color>
+    <color name="rTransparent">@android:color/transparent</color>
+</resources>
