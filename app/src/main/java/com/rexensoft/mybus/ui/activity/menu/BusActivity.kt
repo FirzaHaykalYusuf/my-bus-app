@@ -29,7 +29,7 @@ import com.mapbox.maps.plugin.annotation.generated.*
 import com.rexensoft.mybus.R
 import com.rexensoft.mybus.data.model.BusModel
 import com.rexensoft.mybus.network.MapboxDirectionsFetcher
-import com.rexensoft.mybus.ui.home.activity.BusAdapter
+import com.rexensoft.mybus.adapter.BusAdapter
 import kotlin.concurrent.thread
 
 class BusActivity : AppCompatActivity() {
